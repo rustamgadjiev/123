@@ -224,9 +224,9 @@ body{
     color: #FE4B2F;
     font-weight: 400;
     font-size: 16px;
-    display: flex;
     align-items: center;
     margin-bottom: 7px;
+    display: inline-flex;
 }
 .tours-card-link span {
     border-bottom: 1px solid #FE4B2F;
